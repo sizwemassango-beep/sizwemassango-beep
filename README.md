@@ -1,57 +1,42 @@
-# Olá, eu sou o [SIZWE ARNALDO MASSANGO] 👋
+<div align="center">
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C997&width=435&lines=Desenvolvedor+Software;Estudante+de+Inform%C3%A1tica;Focado+em+Java+%26+Arquitetura+MVC" alt="Typing SVG" />
-</p>
+  <!-- Banner com Animação Typist em SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&height=50&lines=Sizwe+Arnaldo+Massango;Estudante+de+Inform%C3%A1tica+na+UEM;Especialista+em+Java+%26+POO;Arquitetura+MVC+%26+Banco+de+Dados" alt="Typing SVG" />
 
----
+  <p align="center">
+    🎓 <b>Estudante de Informática na UEM</b> • 💻 <b>Desenvolvedor Java</b> • 🚀 <b>Criador de Conteúdo</b>
+  </p>
 
-### 🚀 Sobre Mim
-
-- 🎓 Graduando em **Informática**
-- 💻 Focado no desenvolvimento de sistemas desktop e aplicações web
-- 🏗️ Praticando arquitetura de software (**MVC**), **POO** e manipulação de banco de dados
-- 🤝 Aberto a colaborações em projetos open-source e novas oportunidades
-
----
-
-### 🛠️ Linguagens e Ferramentas
-
-**Linguagens & Backend**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-**Ferramentas & Ambientes**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide=html,css"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 📬 Onde me encontrar
-
-<p align="left">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <!-- Badges de Status / Redes Sociais -->
+  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:SEU_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
+  <a href="https://github.com/SEU_USUARIO_GITHUB">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+</div>
+
+<br />
+
+<!-- Divisória Estilizada -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br />
+
+## ⚡ Sobre Mim
+
+```yaml
+desenvolvedor:
+  nome: "Sizwe Arnaldo Massango"
+  instituicao: "Universidade Eduardo Mondlane (UEM)"
+  curso: "Licenciatura em Informática"
+  foco_atual: ["Java Swing / AWT", "Arquitetura MVC", "Modelagem de Dados SQL"]
+  habilidades_chave:
+    - Orientação a Objetos (POO)
+    - Gestão e Integração com Banco de Dados (MySQL / JDBC)
+    - Versionamento Colaborativo com Git & GitHub
+  filosofia: "Código limpo, arquitetura sólida e aprendizado contínuo."

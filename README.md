@@ -21,7 +21,7 @@
 ## 🧬 `> cat sobre_mim.java`
 
 ```java
-public class SeuNome {
+public class Sizwe {
 
     private String universidade = "Universidade Eduardo Mondlane (UEM)";
     private String linguagemPrincipal = "Java";

@@ -1,22 +1,24 @@
- <!-- ═══════════════════════════════════════════════════════
-     TROQUE: SEU-USUARIO, SEU NOME, e os links/contactos
-     Este ficheiro deve ficar num repositório com o MESMO nome
-     do seu usuário (SEU-USUARIO/SEU-USUARIO) para aparecer no perfil.
-     ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════
+     SÓ PRECISA TROCAR: SEU-USUARIO  →  o seu usuário real do GitHub
+     (é por isso que as estatísticas deram erro: o GitHub não achou "SEU-USUARIO")
+     Dica: no editor do GitHub, use Ctrl+H (ou Cmd+Option+F no Mac)
+     para substituir todos de uma vez.
+     ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00D9F5,100:7B2FF7&height=240&section=header&text=Ol%C3%A1%2C%20eu%20sou%20SEU%20NOME%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20na%20UEM%20%7C%20Desenvolvedor%20Java%20%7C%20Criador%20de%20sites%20WordPress&descAlignY=58&descSize=18" width="100%" alt="Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5A0,50:00D9F5,100:7B2FF7&height=260&section=header&text=Sizwe%20Arnaldo%20Massango&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%F0%9F%8E%93%20Estudante%20na%20UEM%20%E2%80%A2%20%E2%98%95%20Java%20Developer%20%E2%80%A2%20%F0%9F%8C%90%20WordPress&descAlignY=62&descSize=20" width="100%" alt="Banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9F5&center=true&vCenter=true&width=750&lines=%F0%9F%8E%93+Estudante+na+Universidade+Eduardo+Mondlane;%E2%98%95+Programando+em+Java+todos+os+dias;%F0%9F%8C%90+Criando+sites+com+WordPress;%F0%9F%9A%80+Sempre+aprendendo+e+evoluindo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9F5&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Sizwe+%F0%9F%91%8B;%F0%9F%8E%93+Estudante+na+Universidade+Eduardo+Mondlane;%E2%98%95+Apaixonado+por+programar+em+Java;%F0%9F%8C%90+Crio+sites+com+WordPress;%F0%9F%9A%80+Transformando+ideias+em+c%C3%B3digo" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 ![Visitas](https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Visitas&color=00D9F5&style=for-the-badge)
 ![Seguidores](https://img.shields.io/github/followers/SEU-USUARIO?style=for-the-badge&logo=github&color=7B2FF7&labelColor=1a1a2e)
 ![Moçambique](https://img.shields.io/badge/Mo%C3%A7ambique-%F0%9F%87%B2%F0%9F%87%BF-00F5A0?style=for-the-badge&labelColor=1a1a2e)
+![UEM](https://img.shields.io/badge/UEM-Estudante-1B6AC6?style=for-the-badge&labelColor=1a1a2e)
 
 </div>
 
@@ -42,60 +44,65 @@ public class SeuNome {
 }
 ```
 
-- 🎓 Estudante na **Universidade Eduardo Mondlane (UEM)**
-- ☕ Programo em **Java** — a minha linguagem principal
-- 📚 Também tenho conhecimento em **Pascal**, onde dei os primeiros passos na lógica de programação
-- 🌐 Crio sites com **WordPress**
-- 🗄️ Trabalho com bases de dados **MySQL**
-- 🌱 Atualmente a aprofundar Java, bases de dados e desenvolvimento web
-- 💬 Pergunte-me sobre: Java, lógica de programação, WordPress e bases de dados
-- 🤝 Aberto a colaborações, projetos académicos e a trocar conhecimento
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🎓
+**Estudo na**<br/>UEM
+
+</td>
+<td align="center" width="25%">
+
+### ☕
+**Linguagem principal**<br/>Java
+
+</td>
+<td align="center" width="25%">
+
+### 🌐
+**Crio sites com**<br/>WordPress
+
+</td>
+<td align="center" width="25%">
+
+### 🗄️
+**Bases de dados**<br/>MySQL
+
+</td>
+</tr>
+</table>
+
+</div>
+
+- 🌱 A aprofundar **Java**, **bases de dados** e **desenvolvimento web**
+- 📚 Tenho conhecimento de **Pascal**, onde aprendi a base da lógica de programação
+- 💬 Pergunte-me sobre: Java, lógica de programação, WordPress e MySQL
+- 🤝 Aberto a colaborações, projetos académicos e troca de conhecimento
 
 ---
 
 ## 🛠️ Linguagens e Ferramentas
 
-### 💻 Linguagens
-
 <div align="center">
+
+### 💻 Linguagens
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Pascal](https://img.shields.io/badge/Pascal-2D7BB6?style=for-the-badge&logoColor=white)
 
-</div>
-
 ### 🧰 Ferramentas
-
-<div align="center">
 
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanide&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 🎓 Formação
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-### 🏛️ Universidade Eduardo Mondlane
-**UEM** — Moçambique 🇲🇿<br/>
-*Estudante | Em formação*
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -118,15 +125,15 @@ flowchart LR
 ```
 
 <details>
-<summary><b>🎯 Metas para os próximos meses</b></summary>
+<summary><b>🎯 Metas para os próximos meses (clique para abrir)</b></summary>
 <br/>
 
 - [ ] ☕ Dominar Programação Orientada a Objetos em Java
-- [ ] 🔗 Aprender a ligar Java a MySQL (JDBC)
+- [ ] 🔗 Ligar Java a MySQL com JDBC
 - [ ] 🌱 Estudar uma framework como Spring Boot
 - [ ] 🌐 Aprofundar HTML, CSS e JavaScript
 - [ ] 📂 Publicar mais projetos aqui no GitHub
-- [ ] 🔀 Aprender Git e GitHub a fundo
+- [ ] 🔀 Dominar Git e GitHub
 
 </details>
 
@@ -136,12 +143,16 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9F5&icon_color=00F5A0" height="170" alt="Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9F5&icon_color=00F5A0&count_private=true" height="170" alt="Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9F5" height="170" alt="Linguagens"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9F5&fire=00F5A0&currStreakLabel=00D9F5" alt="Streak"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Troféus"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=0d1117&color=00D9F5&line=7B2FF7&point=00F5A0&area=true&hide_border=true" width="95%" alt="Gráfico de atividade"/>
 
 </div>
 
@@ -160,7 +171,7 @@ flowchart LR
 
 </div>
 
-> 💡 *Troque `NOME-DO-REPO-1` e `NOME-DO-REPO-2` pelos nomes dos seus repositórios reais.*
+> 💡 *Quando tiver repositórios, troque `NOME-DO-REPO-1` e `NOME-DO-REPO-2` pelos nomes reais. Se ainda não tiver, apague esta secção inteira.*
 
 ---
 
@@ -180,9 +191,11 @@ flowchart LR
 
 <div align="center">
 
-### ⭐ *"O código é poesia escrita para máquinas e lida por humanos."*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=7B2FF7&center=true&vCenter=true&width=700&lines=%22O+c%C3%B3digo+%C3%A9+poesia+escrita+para+m%C3%A1quinas.%22;%22Quem+para+de+aprender+para+de+evoluir.%22;%22Um+bug+de+cada+vez.+%F0%9F%90%9B%22" alt="Frases"/>
 
-**Feito com 💜 e muito ☕ por SEU NOME**
+<br/>
+
+**Feito com 💜 e muito ☕ por Sizwe Arnaldo Massango**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:00D9F5,100:00F5A0&height=120&section=footer" width="100%" alt="Rodapé"/>
 

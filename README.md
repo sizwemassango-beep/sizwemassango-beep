@@ -1,9 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════
-     SÓ PRECISA TROCAR: SEU-USUARIO  →  o seu usuário real do GitHub
-     (é por isso que as estatísticas deram erro: o GitHub não achou "SEU-USUARIO")
-     Dica: no editor do GitHub, use Ctrl+H (ou Cmd+Option+F no Mac)
-     para substituir todos de uma vez.
-     ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -15,8 +9,8 @@
 
 <br/><br/>
 
-![Visitas](https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Visitas&color=00D9F5&style=for-the-badge)
-![Seguidores](https://img.shields.io/github/followers/SEU-USUARIO?style=for-the-badge&logo=github&color=7B2FF7&labelColor=1a1a2e)
+![Visitas](https://komarev.com/ghpvc/?username=sizwemassango-beep&label=Visitas&color=00D9F5&style=for-the-badge)
+![Seguidores](https://img.shields.io/github/followers/sizwemassango-beep?style=for-the-badge&logo=github&color=7B2FF7&labelColor=1a1a2e)
 ![Moçambique](https://img.shields.io/badge/Mo%C3%A7ambique-%F0%9F%87%B2%F0%9F%87%BF-00F5A0?style=for-the-badge&labelColor=1a1a2e)
 ![UEM](https://img.shields.io/badge/UEM-Estudante-1B6AC6?style=for-the-badge&labelColor=1a1a2e)
 
@@ -143,35 +137,18 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9F5&icon_color=00F5A0&count_private=true" height="170" alt="Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9F5" height="170" alt="Linguagens"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sizwemassango-beep&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9F5&icon_color=00F5A0&count_private=true" height="170" alt="Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sizwemassango-beep&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9F5" height="170" alt="Linguagens"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Troféus"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sizwemassango-beep&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Troféus"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=0d1117&color=00D9F5&line=7B2FF7&point=00F5A0&area=true&hide_border=true" width="95%" alt="Gráfico de atividade"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sizwemassango-beep&bg_color=0d1117&color=00D9F5&line=7B2FF7&point=00F5A0&area=true&hide_border=true" width="95%" alt="Gráfico de atividade"/>
 
 </div>
-
----
-
-## 📂 Projetos em destaque
-
-<div align="center">
-
-<a href="https://github.com/SEU-USUARIO/NOME-DO-REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-REPO-1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9F5" alt="Projeto 1"/>
-</a>
-<a href="https://github.com/SEU-USUARIO/NOME-DO-REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-REPO-2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9F5" alt="Projeto 2"/>
-</a>
-
-</div>
-
-> 💡 *Quando tiver repositórios, troque `NOME-DO-REPO-1` e `NOME-DO-REPO-2` pelos nomes reais. Se ainda não tiver, apague esta secção inteira.*
 
 ---
 
@@ -179,11 +156,7 @@ flowchart LR
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/258SEUNUMERO)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sizwemassango-beep)
 
 </div>
 

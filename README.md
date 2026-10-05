@@ -1,27 +1,27 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5A0,50:00D9F5,100:7B2FF7&height=260&section=header&text=Sizwe%20Arnaldo%20Massango&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%F0%9F%8E%93%20Estudante%20na%20UEM%20%E2%80%A2%20%E2%98%95%20Java%20Developer%20%E2%80%A2%20%F0%9F%8C%90%20WordPress&descAlignY=62&descSize=20" width="100%" alt="Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a23,50:1b0b3a,100:0a0a23&height=280&section=header&text=SIZWE%20MASSANGO&fontSize=62&fontColor=00FFF0&stroke=FF00E5&strokeWidth=2&animation=fadeIn&fontAlignY=42&desc=%E2%96%8C%20SYSTEM%20ONLINE%20%E2%80%A2%20JAVA%20DEVELOPER%20%E2%80%A2%20FUTURE%20ENGINEER%20%E2%96%90&descAlignY=66&descSize=17&descColor=FF00E5" width="100%" alt="Banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9F5&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Sizwe+%F0%9F%91%8B;%F0%9F%8E%93+Estudante+na+Universidade+Eduardo+Mondlane;%E2%98%95+Apaixonado+por+programar+em+Java;%F0%9F%8C%90+Crio+sites+com+WordPress;%F0%9F%9A%80+Transformando+ideias+em+c%C3%B3digo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2800&pause=900&color=00FFF0&center=true&vCenter=true&width=850&height=50&lines=%3E+INICIANDO+PERFIL...;%3E+USU%C3%81RIO%3A+Sizwe+Arnaldo+Massango;%3E+UNIVERSIDADE%3A+UEM+%F0%9F%8E%93;%3E+LINGUAGEM+PRINCIPAL%3A+JAVA+%E2%98%95;%3E+MISS%C3%83O%3A+CONSTRUIR+O+FUTURO+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-![Visitas](https://komarev.com/ghpvc/?username=sizwemassango-beep&label=Visitas&color=00D9F5&style=for-the-badge)
-![Seguidores](https://img.shields.io/github/followers/sizwemassango-beep?style=for-the-badge&logo=github&color=7B2FF7&labelColor=1a1a2e)
-![Moçambique](https://img.shields.io/badge/Mo%C3%A7ambique-%F0%9F%87%B2%F0%9F%87%BF-00F5A0?style=for-the-badge&labelColor=1a1a2e)
-![UEM](https://img.shields.io/badge/UEM-Estudante-1B6AC6?style=for-the-badge&labelColor=1a1a2e)
+![Visitas](https://komarev.com/ghpvc/?username=sizwemassango-beep&label=ACESSOS&color=00FFF0&style=for-the-badge&labelColor=0a0a23)
+![Seguidores](https://img.shields.io/github/followers/sizwemassango-beep?style=for-the-badge&logo=github&label=SEGUIDORES&color=FF00E5&labelColor=0a0a23)
+![Local](https://img.shields.io/badge/BASE-MO%C3%87AMBIQUE%20%F0%9F%87%B2%F0%9F%87%BF-00FFF0?style=for-the-badge&labelColor=0a0a23)
+![Status](https://img.shields.io/badge/STATUS-APRENDENDO-FF00E5?style=for-the-badge&labelColor=0a0a23)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="linha neon"/>
 
-## 👨‍💻 Sobre mim
+## 🧬 `> cat sobre_mim.java`
 
 ```java
-public class Sizwe {
+public class SeuNome {
 
     private String universidade = "Universidade Eduardo Mondlane (UEM)";
     private String linguagemPrincipal = "Java";
@@ -38,138 +38,107 @@ public class Sizwe {
 }
 ```
 
-<div align="center">
+## 🖥️ `> boot --sequence`
 
-<table>
-<tr>
-<td align="center" width="25%">
+```bash
+[ OK ] Carregando módulo ......... UEM_UNIVERSIDADE
+[ OK ] Carregando módulo ......... JAVA_CORE
+[ OK ] Carregando módulo ......... PASCAL_LOGICA
+[ OK ] Carregando módulo ......... MYSQL_DATABASE
+[ OK ] Carregando módulo ......... PHP_WORDPRESS
+[ .. ] Carregando módulo ......... SPRING_BOOT      (em progresso)
+[ .. ] Carregando módulo ......... WEB_FRONTEND     (em progresso)
+[ -- ] Sistema pronto para colaborações e novos projetos
+```
 
-### 🎓
-**Estudo na**<br/>UEM
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="linha neon"/>
 
-</td>
-<td align="center" width="25%">
-
-### ☕
-**Linguagem principal**<br/>Java
-
-</td>
-<td align="center" width="25%">
-
-### 🌐
-**Crio sites com**<br/>WordPress
-
-</td>
-<td align="center" width="25%">
-
-### 🗄️
-**Bases de dados**<br/>MySQL
-
-</td>
-</tr>
-</table>
-
-</div>
-
-- 🌱 A aprofundar **Java**, **bases de dados** e **desenvolvimento web**
-- 📚 Tenho conhecimento de **Pascal**, onde aprendi a base da lógica de programação
-- 💬 Pergunte-me sobre: Java, lógica de programação, WordPress e MySQL
-- 🤝 Aberto a colaborações, projetos académicos e troca de conhecimento
-
----
-
-## 🛠️ Linguagens e Ferramentas
+## ⚙️ `> ls /arsenal`
 
 <div align="center">
 
-### 💻 Linguagens
+### // LINGUAGENS
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Pascal](https://img.shields.io/badge/Pascal-2D7BB6?style=for-the-badge&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-0a0a23?style=for-the-badge&logo=openjdk&logoColor=00FFF0&labelColor=0a0a23&color=00FFF0)
+![Pascal](https://img.shields.io/badge/PASCAL-0a0a23?style=for-the-badge&labelColor=0a0a23&color=FF00E5)
 
-### 🧰 Ferramentas
+### // FERRAMENTAS
 
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanide&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NETBEANS-0a0a23?style=for-the-badge&logo=apachenetbeanide&logoColor=00FFF0&labelColor=0a0a23&color=00FFF0)
+![XAMPP](https://img.shields.io/badge/XAMPP-0a0a23?style=for-the-badge&logo=xampp&logoColor=FF00E5&labelColor=0a0a23&color=FF00E5)
+![MySQL](https://img.shields.io/badge/MYSQL_WORKBENCH-0a0a23?style=for-the-badge&logo=mysql&logoColor=00FFF0&labelColor=0a0a23&color=00FFF0)
+![phpMyAdmin](https://img.shields.io/badge/PHPMYADMIN-0a0a23?style=for-the-badge&logo=phpmyadmin&logoColor=FF00E5&labelColor=0a0a23&color=FF00E5)
+![PHP](https://img.shields.io/badge/PHP-0a0a23?style=for-the-badge&logo=php&logoColor=00FFF0&labelColor=0a0a23&color=00FFF0)
+![WordPress](https://img.shields.io/badge/WORDPRESS-0a0a23?style=for-the-badge&logo=wordpress&logoColor=FF00E5&labelColor=0a0a23&color=FF00E5)
+![Git](https://img.shields.io/badge/GIT-0a0a23?style=for-the-badge&logo=git&logoColor=00FFF0&labelColor=0a0a23&color=00FFF0)
+![GitHub](https://img.shields.io/badge/GITHUB-0a0a23?style=for-the-badge&logo=github&logoColor=FF00E5&labelColor=0a0a23&color=FF00E5)
 
 </div>
 
----
-
-## 🗺️ Meu caminho de aprendizagem
+## 🛰️ `> route --aprendizagem`
 
 ```mermaid
 flowchart LR
-    A[📘 Pascal<br/>Lógica] --> B[☕ Java<br/>POO]
-    B --> C[🗄️ MySQL<br/>Bases de Dados]
-    C --> D[🌐 PHP + WordPress<br/>Web]
-    D --> E[🚀 Projetos<br/>Reais]
+    A[📘 PASCAL<br/>Lógica] ==> B[☕ JAVA<br/>POO]
+    B ==> C[🗄️ MYSQL<br/>Dados]
+    C ==> D[🌐 PHP + WP<br/>Web]
+    D ==> E[🚀 PROJETOS<br/>Reais]
 
-    style A fill:#2D7BB6,stroke:#fff,color:#fff
-    style B fill:#ED8B00,stroke:#fff,color:#fff
-    style C fill:#4479A1,stroke:#fff,color:#fff
-    style D fill:#21759B,stroke:#fff,color:#fff
-    style E fill:#7B2FF7,stroke:#fff,color:#fff
+    style A fill:#0a0a23,stroke:#00FFF0,stroke-width:2px,color:#00FFF0
+    style B fill:#0a0a23,stroke:#FF00E5,stroke-width:2px,color:#FF00E5
+    style C fill:#0a0a23,stroke:#00FFF0,stroke-width:2px,color:#00FFF0
+    style D fill:#0a0a23,stroke:#FF00E5,stroke-width:2px,color:#FF00E5
+    style E fill:#1b0b3a,stroke:#00FFF0,stroke-width:3px,color:#fff
 ```
 
 <details>
-<summary><b>🎯 Metas para os próximos meses (clique para abrir)</b></summary>
+<summary><b>🎯 MISSÕES ATIVAS (clique para abrir)</b></summary>
 <br/>
 
 - [ ] ☕ Dominar Programação Orientada a Objetos em Java
-- [ ] 🔗 Ligar Java a MySQL com JDBC
-- [ ] 🌱 Estudar uma framework como Spring Boot
+- [ ] 🔗 Ligar Java ao MySQL com JDBC
+- [ ] 🌱 Estudar Spring Boot
 - [ ] 🌐 Aprofundar HTML, CSS e JavaScript
-- [ ] 📂 Publicar mais projetos aqui no GitHub
+- [ ] 📂 Publicar projetos aqui no GitHub
 - [ ] 🔀 Dominar Git e GitHub
 
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="linha neon"/>
 
-## 📊 Estatísticas do GitHub
+## 📡 `> stats --github`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sizwemassango-beep&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9F5&icon_color=00F5A0&count_private=true" height="170" alt="Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sizwemassango-beep&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9F5" height="170" alt="Linguagens"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sizwemassango-beep&show_icons=true&theme=synthwave&hide_border=true&bg_color=0a0a23&title_color=00FFF0&icon_color=FF00E5&text_color=ffffff&count_private=true" height="170" alt="Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sizwemassango-beep&layout=compact&theme=synthwave&hide_border=true&bg_color=0a0a23&title_color=00FFF0&text_color=ffffff" height="170" alt="Linguagens"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sizwemassango-beep&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Troféus"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sizwemassango-beep&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Troféus"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sizwemassango-beep&bg_color=0d1117&color=00D9F5&line=7B2FF7&point=00F5A0&area=true&hide_border=true" width="95%" alt="Gráfico de atividade"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sizwemassango-beep&bg_color=0a0a23&color=00FFF0&line=FF00E5&point=ffffff&area=true&area_color=FF00E5&hide_border=true" width="95%" alt="Gráfico de atividade"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="linha neon"/>
 
-## 🤝 Vamos conversar?
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sizwemassango-beep)
-
-</div>
-
----
+## 📶 `> contact --open`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=7B2FF7&center=true&vCenter=true&width=700&lines=%22O+c%C3%B3digo+%C3%A9+poesia+escrita+para+m%C3%A1quinas.%22;%22Quem+para+de+aprender+para+de+evoluir.%22;%22Um+bug+de+cada+vez.+%F0%9F%90%9B%22" alt="Frases"/>
+[![GitHub](https://img.shields.io/badge/GITHUB-sizwemassango--beep-0a0a23?style=for-the-badge&logo=github&logoColor=00FFF0&labelColor=0a0a23&color=00FFF0)](https://github.com/sizwemassango-beep)
 
 <br/>
 
-**Feito com 💜 e muito ☕ por Sizwe Arnaldo Massango**
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=4000&pause=1500&color=FF00E5&center=true&vCenter=true&width=700&lines=%22O+futuro+%C3%A9+escrito+em+c%C3%B3digo.%22;%22Um+bug+de+cada+vez.+%F0%9F%90%9B%22;%22Quem+para+de+aprender+para+de+evoluir.%22" alt="Frases"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:00D9F5,100:00F5A0&height=120&section=footer" width="100%" alt="Rodapé"/>
+<br/>
+
+**`> fim_da_transmissão` &nbsp;|&nbsp; Feito com 💜 e muito ☕ por Sizwe Arnaldo Massango**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:1b0b3a,100:00FFF0&height=120&section=footer" width="100%" alt="Rodapé"/>
 
 </div>

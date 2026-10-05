@@ -115,11 +115,11 @@ flowchart LR
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sizwemassango-beep&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Troféus"/>
+<img src="https://streak-stats.demolab.com?user=sizwemassango-beep&background=0a0a23&ring=FF00E5&fire=00FFF0&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FFF0&sideLabels=00FFF0&dates=9ca3af&hide_border=true&locale=pt_BR" alt="Sequência de commits"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sizwemassango-beep&bg_color=0a0a23&color=00FFF0&line=FF00E5&point=ffffff&area=true&area_color=FF00E5&hide_border=true" width="95%" alt="Gráfico de atividade"/>
+<img src="https://ghchart.rshah.org/00FFF0/sizwemassango-beep" width="90%" alt="Contribuições"/>
 
 </div>
 
